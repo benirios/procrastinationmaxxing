@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "url": "https://www.instagram.com/reels/",
+  "browser": "Google Chrome",
+  "scrollMode": "video-end",
+  "videoPollMilliseconds": 500,
+  "endThresholdSeconds": 0.4,
+  "maxReelSeconds": 180,
+  "scrollIntervalSeconds": 12,
+  "restoreTaskWindow": true,
+  "longTaskScore": 1
+}

@@ -1,0 +1,18 @@
+{
+  "name": "procrastinationmaxxing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automatic Instagram Reels while Claude Code or Codex handles long-running tasks.",
+  "scripts": {
+    "test": "node --test",
+    "install-claude": "node scripts/install.js",
+    "install-codex": "node scripts/install-codex.js",
+    "install-hooks": "npm run install-claude && npm run install-codex",
+    "uninstall-claude": "node scripts/uninstall.js",
+    "uninstall-codex": "node scripts/uninstall-codex.js",
+    "uninstall-hooks": "npm run uninstall-claude && npm run uninstall-codex"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
