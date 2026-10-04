@@ -1,4 +1,5 @@
-# Procrastinationmaxxing
+
+<img width="2172" height="724" alt="procrastinatemaxxing" src="https://github.com/user-attachments/assets/b6b8288e-7953-4af6-99db-837704694724" />
 
 Automatic Instagram Reels for Claude Code and Codex CLI.
 
